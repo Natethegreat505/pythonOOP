@@ -49,7 +49,7 @@ class Car:
 
 # Using the power of object oriented programming
 # Instantiate the Car object and name it "mycar"
-mycar = Car(1969, 'Chevy', 0)
+mycar = Car(2010, 'Mazda', 0)
 
 # Lets set the speed
 mycar.set_speed(20)
